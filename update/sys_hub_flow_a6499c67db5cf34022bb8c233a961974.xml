@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test</internal_name>
+        <label_cache>[{"name":"a5304587-9b50-4d33-b2c1-2c7eb11c297a.taskGR","label":"1➛taskGR","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>b4b958a7db5cf34022bb8c233a9619a2</latest_snapshot>
+        <master_snapshot>b4b958a7db5cf34022bb8c233a9619a2</master_snapshot>
+        <name>Test</name>
+        <outputs/>
+        <remote_trigger_id>b0b998a7db5cf34022bb8c233a961903</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>katrina.arzadon@snc</sys_created_by>
+        <sys_created_on>2019-03-25 23:52:13</sys_created_on>
+        <sys_id>a6499c67db5cf34022bb8c233a961974</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Capgemini" source="x_snc_capgemini">e3291c67db5cf34022bb8c233a96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini">e3291c67db5cf34022bb8c233a96192d</sys_scope>
+        <sys_update_name>sys_hub_flow_a6499c67db5cf34022bb8c233a961974</sys_update_name>
+        <sys_updated_by>katrina.arzadon@snc</sys_updated_by>
+        <sys_updated_on>2019-03-25 23:54:02</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=a6499c67db5cf34022bb8c233a961974"/>
+    <sys_variable_value action="delete_multiple" query="document_key=a6499c67db5cf34022bb8c233a961974"/>
+</record_update>
