@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="test action">88114a3bdb903300933a8af24a9619ad</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Test">a6499c67db5cf34022bb8c233a961974</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>katrina.arzadon@snc</sys_created_by>
+        <sys_created_on>2019-03-27 02:05:26</sys_created_on>
+        <sys_id>67518e3bdb903300933a8af24a96193e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capgemini" source="x_snc_capgemini">e3291c67db5cf34022bb8c233a96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini">e3291c67db5cf34022bb8c233a96192d</sys_scope>
+        <sys_update_name>sys_hub_action_instance_67518e3bdb903300933a8af24a96193e</sys_update_name>
+        <sys_updated_by>katrina.arzadon@snc</sys_updated_by>
+        <sys_updated_on>2019-03-27 02:05:34</sys_updated_on>
+        <ui_id>beb50a47-fc8e-45ce-a341-87b5a92bdc9e</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=67518e3bdb903300933a8af24a96193e"/>
+</record_update>
