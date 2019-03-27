@@ -4,7 +4,7 @@
         <action_type display_value="Create Task (legacy)">417d350167c413001e44007d2685ef62</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot display_value="Create Task (legacy)">417d350167c413001e44007d2685ef62</compiled_snapshot>
         <display_text/>
         <flow display_value="Test">a6499c67db5cf34022bb8c233a961974</flow>
         <order>1</order>
@@ -13,14 +13,14 @@
         <sys_created_by>katrina.arzadon@snc</sys_created_by>
         <sys_created_on>2019-03-25 23:54:00</sys_created_on>
         <sys_id>68b958a7db5cf34022bb8c233a96198f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Capgemini" source="x_snc_capgemini">e3291c67db5cf34022bb8c233a96192d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capgemini">e3291c67db5cf34022bb8c233a96192d</sys_scope>
         <sys_update_name>sys_hub_action_instance_68b958a7db5cf34022bb8c233a96198f</sys_update_name>
-        <sys_updated_by>katrina.arzadon@snc</sys_updated_by>
-        <sys_updated_on>2019-03-25 23:54:02</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-26 00:24:46</sys_updated_on>
         <ui_id>a5304587-9b50-4d33-b2c1-2c7eb11c297a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=68b958a7db5cf34022bb8c233a96198f"/>
