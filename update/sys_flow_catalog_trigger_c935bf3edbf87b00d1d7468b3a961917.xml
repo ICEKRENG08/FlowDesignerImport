@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_catalog_trigger">
+    <sys_flow_catalog_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <catalog_item/>
+        <name/>
+        <sys_class_name>sys_flow_catalog_trigger</sys_class_name>
+        <sys_created_by>katrina.arzadon@snc</sys_created_by>
+        <sys_created_on>2019-04-18 04:29:00</sys_created_on>
+        <sys_id>c935bf3edbf87b00d1d7468b3a961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capgemini" source="x_snc_capgemini">e3291c67db5cf34022bb8c233a96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini">e3291c67db5cf34022bb8c233a96192d</sys_scope>
+        <sys_update_name>sys_flow_catalog_trigger_c935bf3edbf87b00d1d7468b3a961917</sys_update_name>
+        <sys_updated_by>katrina.arzadon@snc</sys_updated_by>
+        <sys_updated_on>2019-04-18 04:29:00</sys_updated_on>
+    </sys_flow_catalog_trigger>
+</record_update>

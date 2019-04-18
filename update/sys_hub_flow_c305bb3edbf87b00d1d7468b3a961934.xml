@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test_scoped_capgemini_flow</internal_name>
+        <label_cache>[{"name":"b80f5069-e8a4-4c95-bc56-492617968ed4.Catalog Task","label":"1➛Catalog Task","reference":"sc_task","reference_display":"Catalog Task","type":"document_id","base_type":"document_id"},{"name":"Service Catalog_1.request_item","label":"Trigger➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>70357f3edbf87b00d1d7468b3a9619cb</latest_snapshot>
+        <master_snapshot>70357f3edbf87b00d1d7468b3a9619cb</master_snapshot>
+        <name>Test Scoped Capgemini Flow</name>
+        <outputs/>
+        <remote_trigger_id>c935bf3edbf87b00d1d7468b3a961917</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>katrina.arzadon@snc</sys_created_by>
+        <sys_created_on>2019-04-18 04:28:19</sys_created_on>
+        <sys_id>c305bb3edbf87b00d1d7468b3a961934</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Test Scoped Capgemini Flow</sys_name>
+        <sys_package display_value="Capgemini" source="x_snc_capgemini">e3291c67db5cf34022bb8c233a96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini">e3291c67db5cf34022bb8c233a96192d</sys_scope>
+        <sys_update_name>sys_hub_flow_c305bb3edbf87b00d1d7468b3a961934</sys_update_name>
+        <sys_updated_by>katrina.arzadon@snc</sys_updated_by>
+        <sys_updated_on>2019-04-18 04:29:00</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=c305bb3edbf87b00d1d7468b3a961934"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c305bb3edbf87b00d1d7468b3a961934"/>
+</record_update>
